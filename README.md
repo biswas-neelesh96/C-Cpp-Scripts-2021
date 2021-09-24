@@ -5,11 +5,11 @@ This repository will be used for **C/C++ Scripts** during Hacktoberfest 2021
 ## Guidelines for contribution:
 ---
 
-1) Before contributing, make sure you have a [GitHub](https://github.com) acoount with a proper knowledge of Git and/or Github. Also follow the guidelines of [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/faq)
+1) Before contributing, make sure you have a [GitHub](https://github.com) acoount with a proper knowledge of Git and/or Github. Also follow the guidelines given in the resources section of [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/resources)
 
 2) Since, this repository is used for writing C/C++ Scripts, you are advised to upload your codes in **C** and/or **C++** language.
 
-3) Please make sure your files are shared in **.c** and/or **.cpp** extension; **JuPyter Notebooks (.ipynb)** are also encouraged. If you want your pull requests to be merged, please don't share your files with any other extension.   
+3) Please make sure your files are shared in **.c** and/or **.cpp** extension. If you want your pull requests to be merged, please don't share your files with any other extension.   
 
 4) If you want you can create a pull request by sharing your repository or your own project.
 
