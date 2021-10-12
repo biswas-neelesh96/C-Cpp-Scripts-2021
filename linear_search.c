@@ -1,23 +1,24 @@
 #include <stdio.h> 
  //linear search
 //compliexity:o(n)
-int linearSearch(int arr[], int n, int x) 
-{ 
+int linearSearch(int arr[], int n, int x) { 
     int i; 
-    for (i = 0; i < n; i++) 
-        if (arr[i] == x) 
+    for (i = 0; i < n; i++) {
+        if (arr[i] == x) {
             return i; //element found at index i
+        }
+    }
     return -1; 
 } 
   
-int main() 
-{ 
+int main() { 
     int n, arr[100],x,result;
     printf("\nEnter the number of elements :");
     scanf("%d",&n);
     printf("\nEnter the array elements: ");
-    for(int i=0;i<n;i++)
+    for(int i=0;i<n;i++) {
         scanf("%d",&arr[i]);
+    }
     printf("\nEnter the element that needs to be searched:") ;
     scanf("%d",&x);
     result = linearSearch(arr, n, x); 
